@@ -5,6 +5,6 @@ pastes the encoded Base64-String into the Clipboard.
 
 The Source Code (Main.java) is included as well.
 
-Programming Language: Java SE
-Version: 20
+Programming Language: Java SE\
+Version: 20\
 Executable: Base64Encoder.jar
